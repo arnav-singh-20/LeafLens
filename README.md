@@ -15,8 +15,8 @@ LeafLens is a web-based application that leverages machine learning to detect di
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Flask
-- **Machine Learning**: TensorFlow, Keras
-- **Additional Libraries**: NumPy, Pillow
+- **Machine Learning**
+- **Additional Libraries**: NumPy, Pandas
 
 ## How to Run Locally
 
