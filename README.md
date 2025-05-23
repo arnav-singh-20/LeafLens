@@ -2,7 +2,7 @@
 
 ## Overview
 
-LeafLens is a web-based application that leverages machine learning to detect diseases in plant leaves from uploaded images. Built with Python, TensorFlow, and Flask, it provides users with instant predictions and educational insights to promote healthier plants.
+LeafLens is a web-based application that leverages machine learning to detect diseases in plant leaves from uploaded images. Built with Python and Machine Learning it provides users with instant predictions and educational insights to promote healthier plants.
 
 ## Features
 
