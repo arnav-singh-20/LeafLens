@@ -1,0 +1,23 @@
+.heading{
+    font-family: "Raleway", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #48bf19, #a1fd7d, #71df7c);
+    background-size: 180% 180%;
+    animation: gradient-animation 5s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
